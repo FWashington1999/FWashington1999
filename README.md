@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Banckend developer from Brazil</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers">
     <img src="https://github-profile-trophy.vercel.app/?username=fwashington1999&theme=gruvbox" alt="fwashington1999" />
   </a>
 </p>
