@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fernando Washington</h1>
 <h3 align="center">A passionate Banckend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin"><img src="https://github-profile-trophy.vercel.app/?username=fwashington1999" alt="fwashington1999" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"><img src="https://github-profile-trophy.vercel.app/?username=fwashington1999" alt="fwashington1999" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
