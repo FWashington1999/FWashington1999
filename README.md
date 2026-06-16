@@ -24,7 +24,7 @@ Atualmente em **[Fortaleza, Brasil]**, aberto a oportunidades **[remoto / híbri
 
 ## 🚀 Sobre mim
 
-- 🏢 Atualmente trabalhando na/como **[Freelancer]**
+- 🏢 Atualmente trabalhando como **[Freelancer]**
 - 🎯 Especializado em **[ex: LandingPages, Criação de Sistemas, SQL ]**
 - 🎓 Formado em **[Análise e Desenvolvimento de Sistemas]** pela **[Unopar]** — [2021]
 
