@@ -16,7 +16,7 @@
 
 > *"Clean code is not written by following a set of rules, it's written with care."*
 
-Sou um **[Freelancer]** que trabalha construindo sistemas escaláveis e de alta performance. Trabalho com foco em Landing pages, design de sistemas, Banco de Dados e boas práticas de engenharia de software.
+Sou um **Freelancer** que trabalha construindo sistemas escaláveis e de alta performance. Trabalho com foco em Landing pages, design de sistemas, Banco de Dados e boas práticas de engenharia de software.
 
 Atualmente em **[Fortaleza, Brasil]**, aberto a oportunidades **[remoto / híbrido / presencial]**.
 
@@ -25,7 +25,7 @@ Atualmente em **[Fortaleza, Brasil]**, aberto a oportunidades **[remoto / híbri
 ## 🚀 Sobre mim
 
 - 🏢 Atualmente trabalhando como **[Freelancer]**
-- 🎯 Especializado em **[ex: LandingPages, Criação de Sistemas, SQL ]**
+- 🎯 Especializado em **[LandingPages, Criação de Sistemas, SQL ]**
 - 🎓 Formado em **[Análise e Desenvolvimento de Sistemas]** pela **[Unopar]** — [2021]
 
 ---
