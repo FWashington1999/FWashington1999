@@ -84,7 +84,7 @@ Atualmente em **[Fortaleza, Brasil]**, aberto a oportunidades **[remoto / híbri
 |--------|-----------|-------|--------|
 | [**Ecommerce**](https://github.com/FWashington1999/Ecommerce) | [Ecommerce usando APIs com checkout de pagamentos] | `Node.js` `MySQL` | ![Status](https://img.shields.io/badge/status-WIP-yellow?style=flat-square) |
 | [**BioX**](https://github.com/FWashington1999/BioX) | [Landing Page] | `Vite` `React` `TypeScript` | ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
-| [**Gerenciamento-Coqueiros**](https://github.com/FWashington1999/BioX) | [Sistema feito para controle de finanças] | `JavaScript` `HTML` `CSS` | ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| [**Gerenciamento-Coqueiros**](https://github.com/FWashington1999/Gerenciamento-Coqueiros) | [Sistema feito para controle de finanças] | `JavaScript` `HTML` `CSS` | ![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
 
 > 🔗 Veja todos os projetos em [github.com/FWashington1999](https://github.com/FWashington1999)
 
