@@ -14,9 +14,9 @@
 
 ## 🚀 Sobre mim
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** (Unopar, 2021) e busco minha **primeira oportunidade como Desenvolvedor Back-end**. Gosto de construir aplicações com foco em back-end, integração com banco de dados e boas práticas de desenvolvimento.
+Sou formado em **Análise e Desenvolvimento de Sistemas** (Unopar, 2022) e busco minha **primeira oportunidade como Desenvolvedor Back-end**. Gosto de construir aplicações com foco em back-end, integração com banco de dados e boas práticas de desenvolvimento.
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas — Unopar (2021)
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas — Unopar (2022)
 - 💻 Estudo e prático com Node.js, JavaScript, Python e bancos de dados relacionais
 - 🌍 Aberto a oportunidades **remoto, híbrido ou presencial** — disponível para início imediato
 
@@ -84,6 +84,6 @@ Estou aberto a novas oportunidades e a trocar ideias sobre tecnologia. Pode me c
 
 <div align="center">
 
-**Obrigado pela visita!** ⭐
+**Obrigado pela visita!**
 
 </div>
